@@ -18,6 +18,7 @@ This repository contains the complete reproducible analysis pipeline for the man
 **Authors:** Roba M. Talaat¹, Ibraheem M. Aly²
 
 **Affiliation:** ¹Molecular Biology Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Egypt
+
 ²Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Egypt
 
 ---
