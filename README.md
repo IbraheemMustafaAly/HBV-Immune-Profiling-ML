@@ -15,11 +15,11 @@ This repository contains the complete reproducible analysis pipeline for the man
 
 **"Cytokine–microRNA Interaction Networks and Host Genetic Variation as Predictive Biomarkers of Immune Modulation in Chronic Hepatitis B: An Integrated Molecular Profiling and Machine Learning Study"**
 
-**Authors:** Roba M. Talaat¹, Ibraheem M. Aly²
-
-**Affiliations:**  
+**Authors:** Roba M. Talaat¹, Ibraheem M. Aly² 
+**Affiliations:**
 ¹Molecular Biology Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Sadat City 32897, Egypt  
 ²Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Sadat City 32897, Egypt
+
 ---
 
 ## 🧬 Study Design
