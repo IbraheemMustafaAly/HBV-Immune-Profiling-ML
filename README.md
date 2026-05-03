@@ -244,7 +244,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 **Ibraheem M. Aly**  
 M.Sc. Student, Bioinformatics Department  
 GEBRI, University of Sadat City, Egypt  
-GitHub: [@IbraheemAly](https://github.com/IbraheemAly)
+GitHub: [@IbraheemMustafaAly](https://github.com/IbraheemMustafaAly)
 
 **Prof. Roba M. Talaat** (Corresponding Author)  
 Molecular Biology Department, GEBRI  
