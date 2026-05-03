@@ -1,0 +1,35 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+Rplots.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# Data — never commit patient-level data
+data/*.csv
+!data/cohort_summary.csv
+data/*.xlsx
+data/*.sav
+data/*.spss
+*.sav
+
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large output files
+*.pdf
+results/*.csv
+!results/ML_summary_table_final.csv
+!results/SHAP_feature_importance.csv
